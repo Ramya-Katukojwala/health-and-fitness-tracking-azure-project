@@ -40,7 +40,8 @@ step 6: The transformed data will be visible in the the storage container.(The t
 
 
 The transformed data is to analyse and vizualize the data
-This is connected to the the azure devops for th applications
+The dashboard was originally created in the microsoft power bi
+This is connected to the the azure devops for the applications
 The visualizations are given below:
 
 
