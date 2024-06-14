@@ -47,12 +47,18 @@ The visualizations are given below:
 
 **Home Page:**
 
+The image is a data dashboard for health and fitness information. It displays information for a user named Rose. Dates are listed along the bottom axis, with corresponding values for sleep, weight, and activity. There are multiple activity categories including very active, moderately active, and lightly active. The majority of Rose’s activity falls under lightly active. Sleep data is displayed in blue with peaks up to 8,000 steps. Weight data is displayed in green with a reading of 200 kg. There is also a BMI of 25.19.
+
 
 ![Screenshot 2024-06-14 090836](https://github.com/Ramya-Katukojwala/health-and-fitness-tracking-azure-project/assets/103170953/c03f4525-59e4-4f33-a54d-150e19f682c3)
 
 
 
 **Daily Activity Page:**
+
+The image is a screenshot of a dashboard showing daily activity. It displays a bar graph for steps, calories burned, and distance traveled. Text at the top of the image identifies it as “Daily Activity”.
+
+Below the graph is a table with the user ID, highest step count, highest calorie count, and furthest distance traveled recorded. It shows the user’s ID as 940, with a highest daily step count of 36,019, most calories burned at 4,900, and farthest distance traveled of 101.68 kilometers.
 
 
 ![Screenshot 2024-06-14 083920](https://github.com/Ramya-Katukojwala/health-and-fitness-tracking-azure-project/assets/103170953/68958fd5-0c1e-4954-9b5e-c57659619675)
@@ -61,11 +67,23 @@ The visualizations are given below:
 **Hourly Activity Page:**
 
 
+The image is a screenshot of a health and fitness dashboard. It displays a graph of a person's hourly activity for multiple days. The x-axis shows dates, while the y-axis shows steps. There are colored sections within the graph that categorize activity intensity throughout the day.
+
+Text at the top of the image identifies it as "Hourly Activity".
+
+A table below the graph shows details like highest step count, highest calorie count, and highest intensity for the user identified by ID 940. It also shows breakdowns by activity hour including total steps, sedentary minutes, and calories burned. 
+
 ![Screenshot 2024-06-14 085200](https://github.com/Ramya-Katukojwala/health-and-fitness-tracking-azure-project/assets/103170953/384bcd81-2dbb-43a8-9941-34b39f7c0774)
 
 
 
 **Minutely Activity Page**
+
+The image is a screenshot of a health and fitness dashboard titled "Minutely Activity". It displays data for a user identified by ID 940. Dates are listed along the bottom axis, with corresponding values for average steps, calories burned, and activity intensity.
+
+The data appears to cover a two-month period, but specific dates and values are blurred out. However, the legend indicates that the activity intensity is measured in calories.
+
+Overall, the dashboard seems to show users detailed information about their activity levels throughout the day.
 
 
 ![Screenshot 2024-06-14 090057](https://github.com/Ramya-Katukojwala/health-and-fitness-tracking-azure-project/assets/103170953/c4cdbb29-fb9f-4579-9d89-50767716edec)
